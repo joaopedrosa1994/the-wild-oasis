@@ -1,6 +1,6 @@
 # The Wild Oasis
 
-Main project of my course in react
+Main project of my course in reac
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
