@@ -1,6 +1,12 @@
 # The Wild Oasis
+Link to access the site , to gain acess please contact me.
+joaopedrosantosassuncao@gmail.com
 
-Main project of my course in reac
+https://thewildoasis-br.netlify.app/
+
+
+
+Main project of my course in react
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
